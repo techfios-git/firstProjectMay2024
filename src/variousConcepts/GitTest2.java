@@ -18,6 +18,8 @@ public class GitTest2 {
 	public static void gitTest2() {
 		
 		System.out.println("Test 3");
+		System.out.println("Test 4");
+		System.out.println("Test 5");
 	}
 	
 	public static void gitTest3() {
